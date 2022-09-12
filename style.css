@@ -39,14 +39,15 @@ img{
     color: hsl(220, 15%, 55%);
     font-weight: 400;
 }
+
 .attribution{
     color: rgb(252, 252, 252);
     font-size: 0.9rem;
     position: fixed;
     bottom:0;
+    width: 100%;
     line-height: 2rem;
     background-color: grey;
-    width: 100%;
     display: flex;
     justify-content: center;
     
