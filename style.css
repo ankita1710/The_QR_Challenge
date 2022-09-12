@@ -39,5 +39,15 @@ img{
     font-weight: 400;
 }
 .attribution{
-    
+    color: rgb(252, 252, 252);
+    font-size: 0.9rem;
+    position: fixed;
+    bottom:0;
+    line-height: 2rem;
+    background-color: grey;
+    width: 100%;
+}
+.attribution a{
+    text-decoration: none;
+    color:rgb(193, 206, 253)
 }
