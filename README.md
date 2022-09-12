@@ -57,7 +57,7 @@ In future challenges I want to focus more on understanding different ways to des
 - [ColorHunt](https://colorhunt.co/palettes/fall) - This helped me to look for various color pallete, it is definitely a great help in designing process. 
 
 ## Author
-- Githib - [ankita1710](https://github.com/ankita1710)
+- Github - [ankita1710](https://github.com/ankita1710)
 - Frontend Mentor - [@ankita1710](https://www.frontendmentor.io/profile/ankita1710)
 - LinkedIn - [Ankita Tomar](https://www.linkedin.com/in/ankita-tomar-a284661a7/)
 
