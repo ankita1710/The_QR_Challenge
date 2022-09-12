@@ -33,8 +33,7 @@ This is my first challenge, the solution to the [QR code component challenge on 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [First Challenge at Frontend Mentor | QR code component](https://ankita1710.github.io/The_QR_Challenge/)
 
 ## My process
 
